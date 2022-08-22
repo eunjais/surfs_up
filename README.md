@@ -30,6 +30,10 @@ The mean temperature of December is 71 F, with a minimum at 56 F and maximum at 
 
 ### Results - June VS December
 
+- June had an average temperature higher than December by 4 F. 
+- The standard deviation between these average temperatures were lower in June compared to December, meaning June had a more stable range of temperatures. 
+- June also had a higher minimum as well as maximum temperature compared to December, at 64 F (as opposed to 56 F) and 85 F (as opposed to 83 F), respectively.
+
 June Plot:
 
 ![juneplot](https://user-images.githubusercontent.com/107447038/185812718-53177084-d716-4b61-8914-ef6b9011e1b4.png)
@@ -39,3 +43,19 @@ December Plot:
 ![decplot](https://user-images.githubusercontent.com/107447038/185812776-e50ebf4b-9312-4836-bc04-d9dcae71fe5f.png)
 
 ### Summary and two additional queries
+
+We wanted to see how preicipitation amounts compare between the two months, June and December.
+
+June Precipitation:
+
+![june_precipitation](https://user-images.githubusercontent.com/107447038/185817134-20794334-02f9-4aa7-aaed-1a7d5ad0f7ab.png)
+
+June has an average precipitation of 0.14 mm, with minimum being no daily rain and maximum being 4.43 mm.
+
+December Precipitation:
+
+![dec_precipitation](https://user-images.githubusercontent.com/107447038/185817140-2e9d0bdc-1e6a-4388-b3f6-54330868bf34.png)
+
+December has an average precipitation of 0.22 mm, with minimum being no daily rain and maximum being 6.42 mm. 
+
+From this, we can conclude that while there is a subtle increase of precipitation between June and December, the difference is negligible ( 0.6 mm) This likely reflects the weather and climate trend of the area; Hawaii's wettest months are known to be from November to March, but heavily localized weather makes it so that it isn't overwhelming. 
