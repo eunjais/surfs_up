@@ -1,5 +1,7 @@
 # SURFS UP
 
+This Surfs Up analysis gathers temperature and precipitation data for the months of June and December in Oahu, in order to determine whether the surf & ice-cream shope business, should it open, can be sustainable year round.
+
 ## Programs Used
 - Python
 - Pandas
@@ -59,3 +61,5 @@ December Precipitation:
 December has an average precipitation of 0.22 mm, with minimum being no daily rain and maximum being 6.42 mm. 
 
 From this, we can conclude that while there is a subtle increase of precipitation between June and December, the difference is negligible ( 0.6 mm) This likely reflects the weather and climate trend of the area; Hawaii's wettest months are known to be from November to March, but heavily localized weather makes it so that it isn't overwhelming. 
+
+Conclusively, we see there's negligible amount of difference, temperature-wise and precipitation-wise, between the months. The lowest temperatures in December may pose a decrease of customer population since 56 F is quite chilly, but the average days show promise.
